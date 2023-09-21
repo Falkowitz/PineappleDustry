@@ -1,0 +1,7 @@
+name: "pineapple"
+displayName: "PineappleDustry"
+description: "AHAHAC?"
+author: "Fitz"
+minGameVersion: "136"
+version: "0.1"
+hideBrowser: false
